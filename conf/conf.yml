@@ -1,0 +1,8 @@
+xml_url: http://bitly.com/nuvi-plz
+link_xpath: table tr td a
+temp_dir: /tmp/nuvi
+download_buffer: 100000
+redis_list: NEWS_XML
+redis_index: NEWS_HASHES
+redis_port: 6379
+redis_host: localhost
